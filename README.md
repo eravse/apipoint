@@ -19,4 +19,7 @@ Erdem Avni SELÇUK / Microsoft MVP / eravse@gmail.com
 * RSS Haber Servisi
 * Hava Alanları Departure / Arrival Listesi
 * Namaz Saatleri
+* TCMB Dövüz Kurları
+* TCMB Kurlarına Göre Döviz Hesaplama
+* Altın / Benzin Fiyatları
 
