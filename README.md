@@ -35,6 +35,18 @@ Weather Api çağırım adresi https://apipoint.sharepoint-tr.com/apipoint/weath
 }
 </code>
 
+## Sample Output 
+
+<code>
+[
+  {
+    "id": 800,
+    "main": "Clear",
+    "description": "clear sky",
+    "icon": "01d"
+  }
+]
+</code>
 ## Weather Service Limits
 Servis ücretsiz kullanıma açık olduğundan Open Weather API sinin ücretsiz planını kullanır ve bu plana ait limitler aynen ApiPoint içinde geçerlidir. Aşağıdaki limitler uygulanır.
 
