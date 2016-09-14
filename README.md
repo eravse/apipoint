@@ -6,7 +6,12 @@ ApiPoint geliştirilme esnasında token olmaksızın hizmete girecek olup, relea
 
 ApiPoint base adres olarak https://apipoint.sharepoint-tr.com adresinden çalışmaktadır. Metodların kullanım detayları aşağıda belirtilmiştir. 
 
-Saygılarımızla 
+Saygılarımızla
+
+Erdem Avni SELÇUK / Microsoft MVP / eravse@gmail.com
+
+
+
 
 # Service List
 * [Weather Service] (/weatherservice.md)
@@ -15,5 +20,3 @@ Saygılarımızla
 * Hava Alanları Departure / Arrival Listesi
 * Namaz Saatleri
 
-Erdem Avni SELÇUK
-eravse@gmail.com
