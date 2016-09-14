@@ -10,6 +10,10 @@ Saygılarımızla
 
 # Service List
 * [Weather Service] (/weatherservice.md)
+* Hürriyet Gazetesi Haberler
+* RSS Haber Servisi
+* Hava Alanları Departure / Arrival Listesi
+* Namaz Saatleri
 
 Erdem Avni SELÇUK
 eravse@gmail.com
