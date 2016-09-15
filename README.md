@@ -15,11 +15,11 @@ Erdem Avni SELÇUK / Microsoft MVP / eravse@gmail.com
 
 # Service List
 * [Weather Service] (/weatherservice.md)
-* Hürriyet Gazetesi Haberler
-* RSS Haber Servisi
-* Hava Alanları Departure / Arrival Listesi
-* Namaz Saatleri
-* TCMB Dövüz Kurları
-* TCMB Kurlarına Göre Döviz Hesaplama
-* Altın / Benzin Fiyatları
+* [Hürriyet Gazetesi Haberler] (/HurriyetNewsService.md)
+* [RSS Haber Servisi] (/RssNewsService.md)
+* [Hava Alanları Departure / Arrival Listesi] (/FlightParserService.md)
+* [Namaz Vakitleri] (/SalatTimesService.md)
+* [TCMB Dövüz Kurları]  (/ChangeExchangeService.md)
+* [TCMB Kurlarına Göre Döviz Hesaplama] (/ChangeExchangeService.md)
+* [Altın / Benzin Fiyatları] (/ChangeExchangeService.md)
 
