@@ -8,8 +8,9 @@ ApiPoint base adres olarak https://apipoint.sharepoint-tr.com adresinden çalı�
 
 Saygılarımızla
 
-Erdem Avni SELÇUK / Microsoft MVP / eravse@gmail.com
-Hasan Köroğlu / SharePoint MCSE / hasan@hasankoroglu.com
+### İletişim
+* Erdem Avni SELÇUK / Microsoft MVP / eravse@gmail.com
+* Hasan Köroğlu / SharePoint MCSE / hasan@hasankoroglu.com
 
 
 
