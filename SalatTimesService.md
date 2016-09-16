@@ -33,5 +33,31 @@ https://apipoint.sharepoint-tr.com/salatTimes/GetCountry adresinden <b>POST</b> 
 </code>
 
 ## GetCity
+Ülkeye ait şehirlerin listelenmesine yarar. GetCountry metodundan alınan değerin POST edilmesi sureti ile ülkeye ait şehirlerin listesini döndürür. 
+
+> POST Metodu ile https://apipoint.sharepoint-tr.com/salatTimes/getCities adresinden tetiklenir.
+
+### Sample Request 
+<code>
+{
+  "CountryID": 2 // Türkiye
+}
+</code>
+
+### Sample Response 
+<code>
+[
+  {
+    "SehirAdi": "ADANA",
+    "SehirAdiEn": "ADANA",
+    "SehirID": "500"
+  },
+  {
+    "SehirAdi": "ADIYAMAN",
+    "SehirAdiEn": "ADIYAMAN",
+    "SehirID": "501"
+  },
+</code>
+
 ## GetTown
 ## GetDailySalatTimes
