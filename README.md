@@ -1,3 +1,5 @@
+![](/images/apipoint.png)
+
 # ApiPoint
 
 APIPoint SharePoint-Tr tarafından geliştirilen ve yayınlanan ücretsiz  JSON ve XML servisleridir. Bu sevisler SharePoint Online ve SharePoint on-prem kullanıcılarının web partları üzerinde kullanabileceği basit ve hızlı entegrasyonlar için arayüzler sağlamayı hedeflemektedir. 
