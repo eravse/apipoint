@@ -26,4 +26,5 @@ Saygılarımızla
 * [TCMB Dövüz Kurları]  (/ChangeExchangeService.md)
 * [TCMB Kurlarına Göre Döviz Hesaplama] (/ChangeExchangeService.md)
 * [Altın / Benzin Fiyatları] (/ChangeExchangeService.md)
+* [Nöbetçi Eczaneler] (/PharmaciesService.md)
 
