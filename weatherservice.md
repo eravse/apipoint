@@ -2,7 +2,8 @@
 #Weather Service
 Weather Servis API üzerinden bulunduğunuz il yada coordinatların hava durumunu Open Weather Servisini kullanarak size döndürür.
 
-Weather Api çağırım adresi https://apipoint.sharepoint-tr.com/weather/getWeather dur. 
+Weather Api çağırım adresi https://apipoint.sharepoint-tr.com/weather/getWeather . 
+
 ### Parametreler 
 * RequestType: 0 <b> (  ByCityName = 0,        ByCoordinates = 1,        ByCityId = 2 )</b>
 * Format : 0  <b>(jSon = 0,        Xml = 1,        Html = 2,) // Servis şu anda sadece json olarak dönüş yapmaktadır.</b>
@@ -15,7 +16,7 @@ Weather Api çağırım adresi https://apipoint.sharepoint-tr.com/weather/getWea
 ### Sample Request  
 > Requestler sadece POST olarak çalışır.
 
-<code>
+```javascript
 {
 "RequestType": 0,
 "Format": 0,
@@ -24,11 +25,11 @@ Weather Api çağırım adresi https://apipoint.sharepoint-tr.com/weather/getWea
 "Lat": "sample string 2",
 "Lon": "sample string 3"
 }
-</code>
+```
 
 ### Sample Output 
 
-<code>
+```javascript
 [
   {
     "id": 800,
@@ -37,7 +38,8 @@ Weather Api çağırım adresi https://apipoint.sharepoint-tr.com/weather/getWea
     "icon": "01d"
   }
 ]
-</code>
+```
+
 ### Weather Service Limits
 Servis ücretsiz kullanıma açık olduğundan Open Weather API sinin ücretsiz planını kullanır ve bu plana ait limitler aynen ApiPoint içinde geçerlidir. Aşağıdaki limitler uygulanır.
 

@@ -20,7 +20,7 @@ Türkçe Kuran-ı Kerimlerin listesini verir. Bu lsteye göre istediğiniz meall
 API  https://apipoint.sharepoint.com/quran/getQuranList adresinden POST Methodu ile erişilir. Metod şu an için herhangi bir parametre almamaktadır. 
 
 ### Sample Response 
-<code>
+```javascript
 [
   {
     "QuranID": "tr.ates",
@@ -32,7 +32,7 @@ API  https://apipoint.sharepoint.com/quran/getQuranList adresinden POST Methodu 
     "AuthorName": "Ali Bulaç",
     "TextSource": "Tanzil.net"
   },......
-</code>
+```
  
  QuranID : Mealin benzersiz adıdır ve diğer methodlarda kullanılmaktadır.
  AuthorName : Meal yazarının adı veya yayıncı kurumun adıdır. Bilglendirme amaçlıdır.
