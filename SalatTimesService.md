@@ -30,7 +30,7 @@ https://apipoint.sharepoint-tr.com/salatTimes/GetCountry adresinden <b>POST</b> 
     "UlkeAdiEn": "AFGANISTAN",
     "UlkeID": "166"
   },....
-
+```
 
 ## GetCity
 Ülkeye ait şehirlerin listelenmesine yarar. GetCountry metodundan alınan değerin POST edilmesi sureti ile ülkeye ait şehirlerin listesini döndürür. 
@@ -42,7 +42,7 @@ https://apipoint.sharepoint-tr.com/salatTimes/GetCountry adresinden <b>POST</b> 
 {
   "CountryID": 2 // Türkiye
 }
-
+```
 
 ### Sample Response 
 ```javascript
@@ -58,6 +58,7 @@ https://apipoint.sharepoint-tr.com/salatTimes/GetCountry adresinden <b>POST</b> 
     "SehirID": "501"
   },
 ....
+```
 
 ## GetTown
 GetTown mevcut namaz vakitlerinin tanımlandığı ilçeleri listelemek için kullanılan metoddur. 
@@ -70,7 +71,7 @@ GetTown mevcut namaz vakitlerinin tanımlandığı ilçeleri listelemek için ku
 {
   "CityID": 501 // ADIYAMAN<br>
 }
-
+```
 
 ### Sample Response 
 ```javascript
@@ -85,6 +86,6 @@ GetTown mevcut namaz vakitlerinin tanımlandığı ilçeleri listelemek için ku
     "IlceAdiEn": "BESNI",
     "IlceID": "9159"
   },.....
-
+```
 
 ## GetDailySalatTimes
