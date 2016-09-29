@@ -89,3 +89,27 @@ GetTown mevcut namaz vakitlerinin tanımlandığı ilçeleri listelemek için ku
 ```
 
 ## GetDailySalatTimes
+
+
+GetTown metodundan elde edilen değer ile mevcut ilçeye ait 5 vakit namaz vaktini listelemek için kullanılan metoddur. 
+
+> POST Metodu ile https://apipoint.sharepoint-tr.com/salatTimes/getDaliySalatTimes adresinden tetiklenir.
+
+
+### Sample Request 
+```javascript
+{
+  "TownID": 9158 // Adıyaman - Besni
+}
+```
+
+### Sample Response 
+```javascript
+{
+  "Sabah": "06:14",
+  "Ogle": "12:24",
+  "Ikindi": "15:43",
+  "Aksam": "18:22",
+  "Yatsi": "19:37"
+}
+```
