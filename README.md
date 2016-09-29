@@ -18,13 +18,18 @@ Saygılarımızla
 
 # Servis Listesi
 * [Weather Service] (/weatherservice.md)
-* [Hürriyet Gazetesi Haberler] (/HurriyetNewsService.md)
-* [RSS Haber Servisi] (/RssNewsService.md)
-* [Hava Alanları Departure / Arrival Listesi] (/FlightParserService.md)
-* [Kuran-ı Kerim] (/QuranService.md)
-* [Namaz Vakitleri] (/SalatTimesService.md)
-* [TCMB Dövüz Kurları]  (/ChangeExchangeService.md)
-* [TCMB Kurlarına Göre Döviz Hesaplama] (/ChangeExchangeService.md)
-* [Altın / Benzin Fiyatları] (/ChangeExchangeService.md)
-* [Nöbetçi Eczaneler] (/PharmaciesService.md)
+* [Hürriyet Gazetesi Haberler] (/HurriyetNewsService.md) ##
+* [RSS Haber Servisi] (/RssNewsService.md) ##
+* [Hava Alanları Departure / Arrival Listesi] (/FlightParserService.md) ##
+* [Kuran-ı Kerim] (/QuranService.md) #
+* [Namaz Vakitleri] (/SalatTimesService.md) #
+* [TCMB Dövüz Kurları]  (/ChangeExchangeService.md) ##
+* [TCMB Kurlarına Göre Döviz Hesaplama] (/ChangeExchangeService.md) ##
+* [Altın / Benzin Fiyatları] (/ChangeExchangeService.md) ##
+* [Nöbetçi Eczaneler] (/PharmaciesService.md) #
 
+-
+
+
+* ## Henüz başlanmamış servisleridir
+* #  Yazılım geliştirme aşamasında olan servisleridir.
