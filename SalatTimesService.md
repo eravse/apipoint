@@ -60,4 +60,32 @@ https://apipoint.sharepoint-tr.com/salatTimes/GetCountry adresinden <b>POST</b> 
 </code>
 
 ## GetTown
+GetTown mevcut namaz vakitlerinin tanımlandığı ilçeleri listelemek için kullanılan metoddur. 
+
+> POST Metodu ile https://apipoint.sharepoint-tr.com/salatTimes/getTown adresinden tetiklenir.
+
+
+### Sample Request 
+<code>
+{<br>
+  "CityID": 501 // ADIYAMAN<br>
+}<br>
+</code>
+
+### Sample Response 
+<code>
+[
+  {
+    "IlceAdi": "ADIYAMAN",
+    "IlceAdiEn": "ADIYAMAN",
+    "IlceID": "9158"
+  },
+  {
+    "IlceAdi": "BESNİ",
+    "IlceAdiEn": "BESNI",
+    "IlceID": "9159"
+  },.....
+</code>
+
+
 ## GetDailySalatTimes
