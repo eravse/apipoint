@@ -13,7 +13,10 @@ Saygılarımızla
 
 ### İletişim
 * Erdem Avni SELÇUK / Microsoft MVP / eravse@gmail.com
-* Hasan Köroğlu / SharePoint MCSE / hasan@hasankoroglu.com
+* Hasan Köroğlu / Microsoft MVP - SharePoint MCSE / hasan@hasankoroglu.com
+
+#API Register
+
 
 
 # Servis Listesi
