@@ -30,14 +30,48 @@ Weather Api çağırım adresi https://apipoint.sharepoint-tr.com/weather/getWea
 ### Sample Output 
 
 ```javascript
-[
-  {
-    "id": 800,
-    "main": "Clear",
-    "description": "clear sky",
-    "icon": "01d"
-  }
-]
+{
+  "coord": {
+    "lon": 29.08,
+    "lat": 40.17
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 5,
+    "pressure": 1022,
+    "humidity": 60,
+    "temp_min": 5,
+    "temp_max": 5
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1.5,
+    "deg": 70
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1488653400,
+  "sys": {
+    "type": 1,
+    "id": 6057,
+    "message": 0.0021,
+    "country": "TR",
+    "sunrise": 1488601883,
+    "sunset": 1488643174
+  },
+  "id": 750268,
+  "name": "Bursa",
+  "cod": 200
+}
 ```
 
 ### Weather Service Limits
