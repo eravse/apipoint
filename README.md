@@ -12,8 +12,8 @@ Aşağıda bulunan iletişim adreslerinden bizlere ulaşabilir ve isteklerinizi 
 Saygılarımızla
 
 ### İletişim
-* Erdem Avni SELÇUK / Microsoft MVP / eravse@gmail.com
-* Hasan Köroğlu / Microsoft MVP - SharePoint MCSE / hasan@hasankoroglu.com
+* Erdem Avni SELÇUK / ProfectSoft / eravse@gmail.com
+
 
 #API Register
 
